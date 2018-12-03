@@ -1,0 +1,12 @@
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\MarsRovers.exe.config
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\MarsRovers.exe
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\MarsRovers.pdb
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\obj\Debug\MarsRovers.csprojResolveAssemblyReference.cache
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\obj\Debug\MarsRovers.exe
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\obj\Debug\MarsRovers.pdb
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\Mover.dll
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\Rover.dll
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\Terrains.dll
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\Mover.pdb
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\Rover.pdb
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\MarsRovers\bin\Debug\Terrains.pdb

@@ -1,0 +1,9 @@
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\bin\Debug\Rover.dll
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\bin\Debug\Rover.pdb
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\bin\Debug\Mover.dll
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\bin\Debug\Terrains.dll
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\bin\Debug\Mover.pdb
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\bin\Debug\Terrains.pdb
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\obj\Debug\Rover.csprojResolveAssemblyReference.cache
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\obj\Debug\Rover.dll
+c:\users\cihanalan\documents\visual studio 2013\Projects\MarsRovers\Rover\obj\Debug\Rover.pdb
